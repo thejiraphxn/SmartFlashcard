@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+env.bak/
+.venv/
+
+# Qt Designer / build files (ถ้ามีใช้)
+*.ui
+*.qrc
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# VSCode config (ถ้าใช้)
+.vscode/
+
+# Test / log / temp files
+*.log
+*.tmp
+
+# Ignore old backup folder (ตามชื่อโฟลเดอร์ที่มึงมี)
+old/
